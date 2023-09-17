@@ -1,5 +1,4 @@
 Acolyte
-Advocate
 Agent
 Alchemist
 Animist
@@ -11,43 +10,27 @@ Armorer
 Assassin
 Assayer
 Astrologer
-Ba'Gamnan
 Baker
-Ballista
-Balthier
-Banker
 Bard
-Basch
 Beastmaster
 Berserker
 Bishop
-Black Belt
 Black Mage
 Black Wizard
 Blacksmith
 Blue Mage
-Body Guard
 Bounty Hunter
-Brewer
 Butcher
-Butler
-Candlemaker
 Canonneer
-Carpenter
 Cartographer
 Chamberlain
 Champion
-Chef
 Chemist
-Clerk
-Cobbler
 Concubine
-Cook
 Corsair
 Dancer
 Dark Knight
 Defender
-Devout
 Divine Knight
 Dragon Knight
 Dragoon
@@ -56,69 +39,39 @@ Dyer
 Elementalist
 Engineer
 Eunuch
-Evoker
-Exchequer
 Falconer
-Farmer
 Fencer
 Ferryman
-Festival-Goer
 Fighter
-Filo
-Fisherman
-Fishmonger
-Flintlock
-Floral Fallal
-Fran
 Freelancer
-Furrier
 Fusilier
 Gadgeteer
 Game Hunter
-Gardener
 Gemcutter
 Geomancer
 Gladiator
 Goldsmith
 Green Mage
-Groom
 Guard
-Guide
 Gun Mage
 Gunner
 Healer
 Herald
 Herbalist
 Heretic
-Heritor
-Hermetic
 Holy Knight
 Hunter
 Illusionist
-Jongleur
-Judgemaster
-Juggler
 Knight
-Kytes
-Lady Luck
 Lancer
 Landlord
-Lanista
-Leatherworker
-Llyud
-Longshoreman
-Machina Maw
 Machinist
 Magus
-Maid
 Mascot
 Master
 Master Monk
 Mercenary
 Merchant
-Midwife
-Milkman
-Miller
 Mime
 Miner
 Minstrel
@@ -133,23 +86,11 @@ Netherseer
 Ninja
 Onion Knight
 Oracle
-Orator
-Page
 Painter
 Paladin
-Panhandler
-Parivir
-Peddler
-Penelo
-Potter
-Priest
 Prospector
-Prostitute
-Psychicer
 Puppetmaster
-Rancher
 Ranger
-Raptor
 Ravager
 Red Mage
 Red Wizard
@@ -158,16 +99,12 @@ Sage
 Sailor
 Samurai
 Scholar
-Scholar
 Scribe
 Sculptor
 Seer
-Servant
-Serving Wench
 Shaman
 Shepherd
 Shipwright
-Shopkeeper
 Silversmith
 Singer
 Sky Pirate
@@ -175,8 +112,6 @@ Sky Samurai
 Sky Soldier
 Sky Warrior
 Skyseer
-Slave
-Slave Trader
 Sniper
 Solider
 Songstress
@@ -186,27 +121,16 @@ Spinster
 Stonecutter
 Summoner
 Sword Saint
-Tailor
-Tax Collector
-Teacher
 Templar
-Thatcher
 Thief
 Time Mage
-Tinker
-Toy Maker
 Tracker
-Trainer
 Trickster
-Vaan
 Viking
-Vintner
-Wagon Driver
 War-chief
 Warmage
 Warrior
 Weaponsmith
-Weaver
 White Mage
 White Monk
 White Wizard

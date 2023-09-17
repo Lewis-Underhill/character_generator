@@ -18,7 +18,7 @@ America
 Arendelle
 Aerugo
 Amestris
-Auroa Archipelago
+The Auroa Archipelago
 Axphain
 Arulco
 Aussar
@@ -65,7 +65,7 @@ Bandiaterra
 Bandrika
 Bangalla
 Bangistan
-Banoi Archipelago
+The Banoi Archipelago
 Baracas
 Barama
 Baraq
@@ -129,7 +129,7 @@ Cascadia
 Celestia
 Central Usea
 Chernarus
-Chinese Federation
+The Chinese Federation
 Chula
 The Coalition States
 Cobra Island
@@ -153,7 +153,7 @@ Costa Gravas
 Costa Luna
 Costa Sentava
 Costa Verde
-Country of the Blind
+The Country of the Blind
 Crashbania
 Creta
 Cromania
@@ -210,7 +210,7 @@ Eurasia
 Far Far Away
 Farfelu
 Fe'ausi
-Federated Commonwealths of America
+The Federated Commonwealths of America
 Feldenberg
 Felistia
 Ferelden
@@ -240,13 +240,13 @@ Gondor
 Gondour
 Goritania
 Govannion
-Gramovian Federation
+The Gramovian Federation
 The Gran Colombian Empire
 Grand Fenwick
 Graustark
 Graznavia
 Great Britain
-Greater East Asia Co-Prosperity Sphere
+The Greater East Asia Co-Prosperity Sphere
 Greenhorne
 Grenyarnia
 Greylock
@@ -258,18 +258,18 @@ The Guylos Empire
 Halla
 Hallownest
 Halwan
-Hatch Islands
+The Hatch Islands
 Hav
 The Helic Republic
-Helvetian Commonwealth
+The Helvetian Commonwealth
 Henan
 Herland
 Hidalgo
 Hispania
-Holy Alliance
+The Holy Alliance
 The Holy Britannian Empire
-Horizon Islands
-Hyrule Kingdom
+The Horizon Islands
+Hyrule
 Idris
 Illéa
 Illyria
@@ -286,14 +286,14 @@ Islandia
 Isla Island
 Isla Trueno
 The Islamic States of America
-Isle of Fogg
+The Isle of Fogg
 The Isthmus Republic
 The Italian Confederation
 The Jark Empire
 Jakovia
 The Javanese Republic
 Jorvik
-Jura Tempest Federation
+The Jura Tempest Federation
 Kadir
 Kahndaq
 Kallipolis
@@ -322,8 +322,8 @@ Khemed
 Khura'in
 Kijuju
 Kinakuta
-Kingdom of Loathing
-Kingdom of Wisdom
+The Kingdom of Loathing
+The Kingdom of Wisdom
 Kinkow
 Klatch
 Klayd
@@ -349,7 +349,7 @@ Kundu
 Kurjikistan
 Kyrat
 Kyria
-Lands Between
+The Lands Between
 Lasria
 Latveria
 Laurania
@@ -389,7 +389,7 @@ Maltovia
 Malynera
 Mandorra
 Marina Venetta
-Marivella Islands
+The Marivella Islands
 Markovia
 Marley
 Marshovia
@@ -420,7 +420,7 @@ Montland
 Moronika
 Muldonia
 Mundania
-Mushroom Kingdom
+The Mushroom Kingdom
 Mypos
 Nairomi
 Nambutu
@@ -454,7 +454,7 @@ Nordlands
 Norgborg
 Norland
 Norteguay
-North American Confederacy
+The North American Confederacy
 The North American Union
 North Darrar
 Norvenia
@@ -475,7 +475,7 @@ OmniStat
 Orlais
 Orsinia
 Orussia
-Osean Federation
+The Osean Federation
 Ostania
 Osterlich
 The Ostman Empire
@@ -500,7 +500,7 @@ Petoria
 Petria
 Phaic Tăn
 Phantom City
-Piggy Kingdom
+The Piggy Kingdom
 Pineland
 Piresia
 The Pobreza Republic
@@ -514,7 +514,7 @@ Pontevedro
 Potarneyland
 Pottsylvania
 Poyais
-Proton Kingdom
+The Proton Kingdom
 Pullamawang
 Punta Gorda
 The Q-Stein Empire
@@ -545,7 +545,7 @@ Rolisica
 Romagna
 Romanovia
 Romanza
-Rook Islands
+The Rook Islands
 Rouge Chité
 Rovinia
 Ruffino
@@ -566,12 +566,9 @@ San Escobar
 San Esperito
 Sangala
 San Glucose
-The San Lorenzo The Republic of
-San Lorenzo
 San Lorenzo
 San Madeiro
 San Marcos
-San Miguel
 San Miguel
 San Monique
 San Pasquale
@@ -596,7 +593,7 @@ Sardovia
 Sarkhan
 Sauville
 Scandinavia
-Science Kingdom
+The Science Kingdom
 Seko
 Selatapura
 Selgina
@@ -609,7 +606,7 @@ Shangri-La
 Shitschtorchnia
 Sichuan
 Sierra Gordo
-Sim Nation
+The Sim Nation
 Slaka
 Slovetzia
 Snezhnaya
@@ -620,7 +617,6 @@ Sontar
 Sordland
 Sotoa
 Sounis
-South Africa
 South Africa
 The Sovereign Sandian Republic
 Soviet Unterzoegersdorf
@@ -663,7 +659,7 @@ Timbuktu
 Tirania
 Tomainia
 Tomasia
-Tontatta Kingdom
+The Tontatta Kingdom
 Trans-Carpathia
 Transia
 Tropico
@@ -677,19 +673,19 @@ Ugigistan
 Ul Qoma
 Ululiona-Linulu
 Umbutu
-Unaudited Arab Emirates
+The Unaudited Arab Emirates
 The Union of The United States of America
 The United Canadian and American States
-United Federation
+The United Federation
 The United Islamic Republic
-United Kingdom
+The United Kingdom
 The United States of America
 Uqbar
 Urk
 Urkesh
 Urmania
 Urzikstan
-USEA Federation
+The USEA Federation
 Ustinkistan
 Ustio
 Utopia
@@ -698,7 +694,7 @@ Val Verde
 Valeska
 Varania
 Venezia
-Vermillion Kingdom
+The Vermillion Kingdom
 Vespugia
 Veyshnoria
 The Vigoor Empire

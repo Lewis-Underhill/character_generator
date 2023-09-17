@@ -91,14 +91,15 @@ const generateName = () => {
     //Choose surname
     let name2 = rand(surnames);
     
-    console.log(name1 + name2);
     return name1 + name2;
-
 }
 
 // Print formatted message to console
 const generateMessage = () => {
-    console.log(`${generateName()}, ${rand(accolades)} of ${rand(places)}`);
+    //console.log(`${generateName()}, ${rand(accolades)} of ${rand(places)}`);
+    console.log(`Name: ${generateName()}`);
+    console.log(`Class: ${rand(accolades)}`);
+    console.log(`Origin: ${rand(places)}`);
 };
 
 generateMessage();
