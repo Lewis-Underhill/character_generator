@@ -2,7 +2,7 @@ const fs = require('fs');
 
 // Function to import .txt file as an array
 const arrayImport = textFile => {
-    let items = fs.readFileSync(textFile).toString('utf-8').split('\n');
+    let items = fs.readFileSync(textFile, 'utf-8').split('\n');
     return items;
 }
 
@@ -59,7 +59,7 @@ const generateName = () => {
             return 7;
         } else if (d100 < 99) {
             return 8;
-        } else if (d100 === 99) {
+        } else if (d100 >= 99) {
             return 9;
         }                
     }
@@ -90,9 +90,15 @@ const generateName = () => {
 
     //Choose surname
     let name2 = rand(surnames);
-
+    
+    console.log(name1 + name2);
     return name1 + name2;
+
 }
 
+// Print formatted message to console
+const generateMessage = () => {
+    console.log(`${generateName()}, ${rand(accolades)} of ${rand(places)}`);
+};
 
-console.log(generateName());
+generateMessage();
